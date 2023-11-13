@@ -1565,9 +1565,9 @@ a:focus {
   color: inherit;
 }
 
-.profile-picture {
-  width: 36px;
-  height: 36px;
+#profilepic {
+  width: 240px;
+  height: 160px;
   border-radius: 18px;
 }
 /*# sourceMappingURL=style.css.map */
